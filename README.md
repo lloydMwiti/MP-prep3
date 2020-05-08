@@ -12,4 +12,4 @@ or click
 ### Contact Author
 lloydmwiti4@gmail.com
 ### License and Usage
-the work is unlicensed but free to use 
+the work is licensed under MIT free use license but no warranty or guarantee of support is offered. 
