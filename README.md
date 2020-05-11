@@ -8,7 +8,7 @@ Delani studio mock up to test styling literacy
 HTML ,CSS ,Java Script
 ### How to Set up
 you can either Clone the repo
-or click 
+or click https://lloydmwiti.github.io/MP-prep3/
 ### Contact Author
 lloydmwiti4@gmail.com
 ### License and Usage
