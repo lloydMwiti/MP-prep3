@@ -238,7 +238,13 @@ body>*{
 
     }
     .card{
+        width: 100vw;
+        height: 100vw;
+    }
+    #txt,#txtarea{
         width: 90vw;
-        height: 90vw;
+    }
+    .col-md-11{
+        width: 100vw;
     }
 }
